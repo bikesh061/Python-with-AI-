@@ -27,7 +27,5 @@ print("The numbers you entered are:", numbers)
 for i in range(1,11):
     print(i)
 
-# Input Question
-# Ask the user to enter a number and check whether the number is even or odd.
-# Hint: Use input() to take the number and the % operator to check even or odd.
+
 

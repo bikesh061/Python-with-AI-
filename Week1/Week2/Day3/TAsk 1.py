@@ -16,3 +16,9 @@ for i in range(5):
     numbers.append(num)
 
 print("The numbers you entered are:", numbers)
+
+
+# Input Question
+# Ask the user to enter a number and check whether the number is even or odd.
+# Hint: Use input() to take the number and the % operator to check even or odd.
+
