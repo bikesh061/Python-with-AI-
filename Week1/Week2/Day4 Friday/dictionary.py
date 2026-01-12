@@ -5,7 +5,15 @@
 # Dictionary items are stored in key values pairs
 
 # keys in a single dictionary need to have different name
+
+my_dictionary = { 'key' = 'value',
+                'key1' = 'value'}
+
+
 '''
+
+
+
 Example
 my_dictionary = {
                    1 : 'value' ,
