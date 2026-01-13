@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c068ed84-fddb-42ef-b5e6-cd223c4d7a7c" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/Day4 Friday/CLI Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Jan/FridayTask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Jan/Janfriday.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/Day4 Friday/DataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/Day4 Friday/DataType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week2/Day4 Friday/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/Day4 Friday/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 4 jan 12/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4 jan 12/oop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,63 +40,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.2day.executor": "Run",
-    "Python.Assignment.executor": "Run",
-    "Python.CLI Project.executor": "Run",
-    "Python.Clli.executor": "Debug",
-    "Python.CompaOperators.executor": "Run",
-    "Python.ConditionalStatement.executor": "Run",
-    "Python.Da3.executor": "Run",
-    "Python.DataType.executor": "Run",
-    "Python.Day1.executor": "Run",
-    "Python.Day2.executor": "Run",
-    "Python.ForInloop.executor": "Run",
-    "Python.FridayTask.executor": "Run",
-    "Python.Function.executor": "Run",
-    "Python.Funtion Task.executor": "Run",
-    "Python.Index.executor": "Run",
-    "Python.Iterative.executor": "Run",
-    "Python.Janfriday.executor": "Run",
-    "Python.List Operation.executor": "Run",
-    "Python.LogicalOperator.executor": "Run",
-    "Python.MnFunction.executor": "Debug",
-    "Python.NestedIf.executor": "Run",
-    "Python.NonPrimi.executor": "Run",
-    "Python.NonPrimitivedatatype.executor": "Run",
-    "Python.Operations.executor": "Run",
-    "Python.OperatorMOdules.executor": "Run",
-    "Python.ProjectBuilding.executor": "Run",
-    "Python.TAsk 1.executor": "Run",
-    "Python.Task end of day.executor": "Run",
-    "Python.Task.executor": "Run",
-    "Python.TaskForWhileloop.executor": "Run",
-    "Python.TaskWed.executor": "Run",
-    "Python.Tasl1.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.for in loop.executor": "Run",
-    "Python.fstring(day2).executor": "Run",
-    "Python.ifCondition.executor": "Run",
-    "Python.inputfterminal.executor": "Run",
-    "Python.oop.executor": "Run",
-    "Python.replace.executor": "Run",
-    "Python.stripNsplit.executor": "Run",
-    "Python.up&lp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2day.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CLI Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clli.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.CompaOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConditionalStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Da3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ForInloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FridayTask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funtion Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iterative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Janfriday.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List Operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LogicalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MnFunction.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NonPrimi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NonPrimitivedatatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperatorMOdules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ProjectBuilding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TAsk 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task end of day.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TaskForWhileloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TaskWed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tasl1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for in loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fstring(day2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputfterminal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stripNsplit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.up&amp;lp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bikes\OneDrive\Desktop\python with Ai\Week1\week 2\Day 4 Friday" />
@@ -136,7 +130,8 @@
       <workItem from="1767921057722" duration="660000" />
       <workItem from="1767921750218" duration="10071000" />
       <workItem from="1768117819236" duration="8982000" />
-      <workItem from="1768187461371" duration="3458000" />
+      <workItem from="1768187461371" duration="4389000" />
+      <workItem from="1768285119169" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -178,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767921876966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <option name="closed" value="true" />
+      <created>1768201497846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768201497846</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
