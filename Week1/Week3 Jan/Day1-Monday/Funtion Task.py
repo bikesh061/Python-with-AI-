@@ -15,6 +15,6 @@ def count_vowel(word):
 word = input("Enter a name: ")
 print(count_vowel(word))
 
-#
+
 
 
