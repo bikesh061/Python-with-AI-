@@ -5,12 +5,12 @@
 #Function take input and gives output
 
 # The parameter are the variable that is declared when defining a function,
-# argument are the values that we pass when calling the funcion.
+# argument are the values that we pass when calling the funcion.  #
 
 # def my_function(x):
 #     y = 2*x
 #     print(f'When x is {x}, y is {y}')
-#
+#   Calling funct  ion and argument
 # my_function(2)
 # my_function(3)
 # my_function(4)
@@ -30,6 +30,8 @@ my_function(6,8)
 
 def Full_Name(first_name, last_name):
     return first_name + " " + last_name
+    print(len(" "))
+
 
 
 name = Full_Name("bikesh", "Shakya")

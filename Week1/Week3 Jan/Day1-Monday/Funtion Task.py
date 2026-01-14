@@ -2,8 +2,19 @@
 #     print("hello")
 # greet()
 
-# Task 1: Write a function to give count of vowel in a word
-def count_vowel():
+# write a funcion to give count of vowels in a word
+def count_vowel(word):
     vowels = "aeiouAEIOU"
     count = 0
- 
+
+    for char in word:
+        if char in vowels:
+            count += 1
+
+    return count
+word = input("Enter a name: ")
+print(count_vowel(word))
+
+#
+
+
