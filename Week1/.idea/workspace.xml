@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c068ed84-fddb-42ef-b5e6-cd223c4d7a7c" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 2 monday/Constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 2 monday/Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 2 monday/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 3 Wednesday/INcapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 3 Wednesday/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 jan 12/day 3 Wednesday/encapsulationTask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/Qn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/Funtion Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/Funtion Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/MnFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3 Jan/Day1-Monday/MnFunction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,64 +45,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.2day.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLI Project.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clli.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.CompaOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConditionalStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Da3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ForInloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FridayTask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Funtion Task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Iterative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Janfriday.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List Operation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MnFunction.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.NestedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NonPrimi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NonPrimitivedatatype.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OperatorMOdules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ProjectBuilding.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TAsk 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task end of day.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TaskForWhileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TaskWed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tasl1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for in loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fstring(day2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inputfterminal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.replace.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stripNsplit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.up&amp;lp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2day.executor": "Run",
+    "Python.Assignment.executor": "Run",
+    "Python.CLI Project.executor": "Run",
+    "Python.Clli.executor": "Debug",
+    "Python.CompaOperators.executor": "Run",
+    "Python.ConditionalStatement.executor": "Run",
+    "Python.Constructor.executor": "Run",
+    "Python.Da3.executor": "Run",
+    "Python.DataType.executor": "Run",
+    "Python.Day1.executor": "Run",
+    "Python.Day2.executor": "Run",
+    "Python.ForInloop.executor": "Run",
+    "Python.FridayTask.executor": "Run",
+    "Python.Function.executor": "Run",
+    "Python.Funtion Task.executor": "Run",
+    "Python.INcapsulation.executor": "Run",
+    "Python.Index.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Iterative.executor": "Run",
+    "Python.Janfriday.executor": "Run",
+    "Python.List Operation.executor": "Run",
+    "Python.LogicalOperator.executor": "Run",
+    "Python.MnFunction.executor": "Debug",
+    "Python.NestedIf.executor": "Run",
+    "Python.NonPrimi.executor": "Run",
+    "Python.NonPrimitivedatatype.executor": "Run",
+    "Python.Operations.executor": "Run",
+    "Python.OperatorMOdules.executor": "Run",
+    "Python.ProjectBuilding.executor": "Run",
+    "Python.TAsk 1.executor": "Run",
+    "Python.Task end of day.executor": "Run",
+    "Python.Task.executor": "Run",
+    "Python.TaskForWhileloop.executor": "Run",
+    "Python.TaskWed.executor": "Run",
+    "Python.Tasl1.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.encapsulationTask.executor": "Run",
+    "Python.for in loop.executor": "Run",
+    "Python.fstring(day2).executor": "Run",
+    "Python.ifCondition.executor": "Run",
+    "Python.inputfterminal.executor": "Run",
+    "Python.oop.executor": "Run",
+    "Python.replace.executor": "Run",
+    "Python.stripNsplit.executor": "Run",
+    "Python.up&lp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bikes\OneDrive\Desktop\python with Ai\Week1\Week 4 jan 12\day 2 monday" />
@@ -138,7 +142,9 @@
       <workItem from="1768117819236" duration="8982000" />
       <workItem from="1768187461371" duration="4389000" />
       <workItem from="1768285119169" duration="2473000" />
-      <workItem from="1768355345544" duration="3696000" />
+      <workItem from="1768355345544" duration="9428000" />
+      <workItem from="1768718155448" duration="1958000" />
+      <workItem from="1768799651642" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -196,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768285703833</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1768359126218</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768359126218</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <option name="closed" value="true" />
+      <created>1768371383272</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768371383272</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,11 +251,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Week3 Jan/Day1-Monday/MnFunction.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Week2/Day4 Friday/Clli.py</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
@@ -262,6 +279,7 @@
     <SUITE FILE_PATH="coverage/Week1$for_in_loop.coverage" NAME="for in loop Coverage Results" MODIFIED="1767588766183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day 4 Friday" />
     <SUITE FILE_PATH="coverage/Week1$oop.coverage" NAME="oop Coverage Results" MODIFIED="1768201174508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 jan 12" />
     <SUITE FILE_PATH="coverage/Week1$Iterative.coverage" NAME="Iterative Coverage Results" MODIFIED="1767270066784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day 1" />
+    <SUITE FILE_PATH="coverage/Week1$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1768800438801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
     <SUITE FILE_PATH="coverage/Week1$Tasl1.coverage" NAME="Tasl1 Coverage Results" MODIFIED="1766640218374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/Week1$CompaOperators.coverage" NAME="CompaOperators Coverage Results" MODIFIED="1766639097508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/Week1$fstring_day2_.coverage" NAME="fstring(day2) Coverage Results" MODIFIED="1766493022531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -276,6 +294,7 @@
     <SUITE FILE_PATH="coverage/Week1$inputfterminal.coverage" NAME="inputfterminal Coverage Results" MODIFIED="1766635897105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/Week1$List_Operation.coverage" NAME="List Operation Coverage Results" MODIFIED="1767161437248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day2" />
     <SUITE FILE_PATH="coverage/Week1$MnFunction.coverage" NAME="MnFunction Coverage Results" MODIFIED="1767682022741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3/Day1" />
+    <SUITE FILE_PATH="coverage/Week1$encapsulationTask.coverage" NAME="encapsulationTask Coverage Results" MODIFIED="1768373646395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 jan 12/day 3 Wednesday" />
     <SUITE FILE_PATH="coverage/Week1$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1767585944676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day 4 Friday" />
     <SUITE FILE_PATH="coverage/Week1$ConditionalStatement.coverage" NAME="ConditionalStatement Coverage Results" MODIFIED="1766637352264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/Week1$Constructor.coverage" NAME="Constructor Coverage Results" MODIFIED="1768286403677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 jan 12" />
@@ -292,6 +311,7 @@
     <SUITE FILE_PATH="coverage/Week1$Task.coverage" NAME="Task Coverage Results" MODIFIED="1767164304999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day2" />
     <SUITE FILE_PATH="coverage/Week1$Index.coverage" NAME="Index Coverage Results" MODIFIED="1766493928606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/Week1$NonPrimitivedatatype.coverage" NAME="NonPrimitivedatatype Coverage Results" MODIFIED="1767078725143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day2" />
+    <SUITE FILE_PATH="coverage/Week1$INcapsulation.coverage" NAME="INcapsulation Coverage Results" MODIFIED="1768372886019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4 jan 12/day 3 Wednesday" />
     <SUITE FILE_PATH="coverage/Week1$DataType.coverage" NAME="DataType Coverage Results" MODIFIED="1768130804593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day4 Friday" />
   </component>
 </project>
