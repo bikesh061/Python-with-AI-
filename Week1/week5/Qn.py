@@ -9,5 +9,5 @@ Add a new attributes duty_hours to the GuardDog Class.
 
 Use super() in the GuardDog construcot to initialize breed , name and legs.
 
-Add a methonf guard() that:
+Add a method guard() that:
 '''
