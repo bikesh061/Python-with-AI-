@@ -58,33 +58,74 @@ Has a private attribute __balance
 
 Has methods deposit (amount and withdraw(amount)
 
-prevemts withdrals if the amoutn is f=greateer tahn tht balance
+prevemts withdrawls if the amoutn is f=greateer tahn tht balance
 
 use @property to create a read only attributes balance
 
 implement the class and show how encapsulation and property decorator
 '''
-class BankAccount:
-    def __init__(self, balance):
-        self.__balance = balance
+# class BankAccount:
+#     def __init__(self, balance):
+#         self.__balance = balance
+#
+#     def deposit(self, amount):
+#         if amount > 0:
+#             self.__balance += amount
+#             print(f"Deposited: {amount}")
+#         else:
+#             print("Deposit must be positive.")
+#
+#     def withdraw(self, amount):
+#         if amount > self.__balance:
+#             print("Withdrawal denied: Insufficient balance")
+#         elif amount <= 0:
+#             print("Withdrawal must be positive.")
+#         else:
+#             self.__balance -= amount
+#             print(f"Withdrawn: {amount}")
+#
+#     @property
+#     def balance(self):
+#         pass
+#     return self.__balance
 
-    def deposit(self, amount):
-        if amount > 0:
-            self.__balance += amount
-            print(f"Deposited: {amount}")
-        else:
-            print("Deposit must be positive.")
 
-    def withdraw(self, amount):
-        if amount > self.__balance:
-            print("Withdrawal denied: Insufficient balance")
-        elif amount <= 0:
-            print("Withdrawal must be positive.")
-        else:
-            self.__balance -= amount
-            print(f"Withdrawn: {amount}")
+'''Question 3: Polymorphism & Abstract Base Classes
 
-    @property
-    def balance(self):
+Create an abstract base class Shape with an abstract method area().
 
-        return self.__balance
+Create two subclasses:
+
+Rectangle (attributes: length, width)
+
+Circle (attribute: radius)
+
+Task:
+Implement the area() method in each subclass and write a function that takes a 
+list of shapes and prints their areas using polymorphism.'''
+
+from abc import ABC, abstractmethod
+
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+
+class Rectangle(Shape):
+    def __init__(self,length,width):
+        self.length = length
+        self.width = width
+
+    def area(self):
+        return self.length * self.width
+
+class Circle(Shape):
+    def __init__(self,radius):
+        self.radius = radius
+
+    def area(self):
+        print(3.14 * self.radius * self.radius)   # **2 power 2
+
+rec = Rectangle(10,20)
+circle = Circle(5, 6)
+print(rec.area())

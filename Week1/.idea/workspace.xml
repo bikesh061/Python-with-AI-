@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c068ed84-fddb-42ef-b5e6-cd223c4d7a7c" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/week5/Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/Qn.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Qn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/Abstraction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.python.documentation.PythonDocumentationConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -111,10 +109,34 @@
       <recent name="C:\Users\bikes\OneDrive\Desktop\python with Ai\Week1\week 2\Day 4 Friday" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Abstraction" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/Abstraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -145,7 +167,8 @@
       <workItem from="1768718155448" duration="1958000" />
       <workItem from="1768799651642" duration="1412000" />
       <workItem from="1768803555051" duration="2880000" />
-      <workItem from="1768887209114" duration="4291000" />
+      <workItem from="1768887209114" duration="5935000" />
+      <workItem from="1769048590532" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -219,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768371383272</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update">
+      <option name="closed" value="true" />
+      <created>1768892930049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768892930050</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +303,7 @@
     <SUITE FILE_PATH="coverage/Week1$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1766470354662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Week1$up_lp.coverage" NAME="up&amp;lp Coverage Results" MODIFIED="1766496133392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/Week1$Clli.coverage" NAME="Clli Coverage Results" MODIFIED="1768134215388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day4 Friday" />
-    <SUITE FILE_PATH="coverage/Week1$Abstraction.coverage" NAME="Abstraction Coverage Results" MODIFIED="1768892860882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
+    <SUITE FILE_PATH="coverage/Week1$Abstraction.coverage" NAME="Abstraction Coverage Results" MODIFIED="1768893461164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
     <SUITE FILE_PATH="coverage/Week1$Function.coverage" NAME="Function Coverage Results" MODIFIED="1768357315338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3 Jan/Day1-Monday" />
     <SUITE FILE_PATH="coverage/Week1$for_in_loop.coverage" NAME="for in loop Coverage Results" MODIFIED="1767588766183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week 2/Day 4 Friday" />
     <SUITE FILE_PATH="coverage/Week1$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1768800438801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" />
