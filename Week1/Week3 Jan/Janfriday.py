@@ -1,15 +1,19 @@
-# '''write a pyhton function merge_dicts that Takes two dictionaries as input and
-# return a new dictionary that merge the two. if there are overlapping keys, the values in the second dectionaryes
-# should overwrite the values in thr fisrt dixtionary
-# '''
+'''
+Write a python function merge_dicts that Takes two dictionaries as input and
+return a new dictionary that merge the two. if there are overlapping keys, the values in the second dectionaryes
+should overwrite the values in thr first dictionary
+dict1 = {'a':1, 'b':2, 'c':3}
+dict2 = {'b':4,'d':5}
+'''
 
 def merge_dicts(dict1, dict2):
     merged_dict = {}                   # if we need to add we must create a new container for dictionary
     for key, item in dict1.items():
-        merged_dict[key]= item
-    for key, item in  dict2.items():
-        merged_dict[key]= item
+        merged_dict[key] = item
+    for key, item in dict2.items():
+        merged_dict[key] = item
     return merged_dict
+
 dict1 = {'a':1, 'b':2, 'c':3}
 dict2 = {'b':4,'d':5}
 
@@ -34,7 +38,9 @@ def is_palindrome(word):
     else:
         return False
 
-print(is_palindrome('word'))
+print(is_palindrome('none'))
+
+
 
 '''
 #Write a python function count_vowels that takes a string as input and returns a dictionary containing
@@ -51,12 +57,12 @@ print(count_vowels(text))
 
 {'a':2, 'i':1 'o' : 2, 'e' : 2}
 '''
-vowels = ['a', 'e', 'i', 'o', 'u']
-def count_vowels(word):
-    vowel_count = {}
-    for char in word:
-        if char.lower() in vowels:
-            if vowel_count[char.lowe]
-            # vowel_count[char.lower()] +=1
-    return vowel_count
-print(count_vowels("programming is Awesome"))
+# vowels = ['a', 'e', 'i', 'o', 'u']
+# def count_vowels(word):
+#     vowel_count = {}
+#     for char in word:
+#         if char.lower() in vowels:
+#             if vowel_count[char.lowe]
+#             # vowel_count[char.lower()] +=1
+#     return vowel_count
+# print(count_vowels("programming is Awesome"))

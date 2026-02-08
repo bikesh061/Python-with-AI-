@@ -23,7 +23,7 @@ class bike:
         print('bike is stop')
 
 # Creating an object od the class.
-myBike = bike('red','square','60km/h', True
+myBike = bike('red','square','60km/h', True)
 #
 # #Accesing attribute of an object
 # # print(myBike.color)
